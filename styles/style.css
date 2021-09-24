@@ -1,13 +1,10 @@
 body{
-    margin:0;
-   
-    
-    background: linear-gradient( 120deg, #fff , #fff 62% , #333 62% , #9660ec   100% )
+    margin:0;   
+    background: linear-gradient( 120.5deg, #fff , #fff 62% , #333 62% , #9660ec   100% )
 }
 
 main{
-    margin:0;
-    
+    margin:0;   
 }
 .linha{
     border: none;
@@ -24,3 +21,4 @@ main{
 .centro{
     text-align: center;
 }
+
