@@ -1,6 +1,6 @@
 body{
     margin:0;   
-    background: linear-gradient( 120.5deg, #fff , #fff 62% , #333 62% , #9660ec   100% )
+    background: linear-gradient( 120.5deg, rgb(127, 43, 138) , #fff 62% , #333 62% , #9660ec   100% )
 }
 
 main{
