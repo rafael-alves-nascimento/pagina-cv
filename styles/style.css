@@ -1,0 +1,26 @@
+body{
+    margin:0;
+   
+    
+    background: linear-gradient( 120deg, #fff , #fff 62% , #333 62% , #9660ec   100% )
+}
+
+main{
+    margin:0;
+    
+}
+.linha{
+    border: none;
+    height: 5px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+    border-radius: 5px;
+    margin:2rem;
+}
+.lista{
+    padding: 0;   
+}
+.centro{
+    text-align: center;
+}
