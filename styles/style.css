@@ -22,3 +22,10 @@ main{
     text-align: center;
 }
 
+@media only screen and (max-device-width: 900px) {
+    /* .menu { width:100%; } */
+    }
+
+    @media only screen and (max-device-width: 900px) {
+        /* .menu { width:600px; } */
+        }
