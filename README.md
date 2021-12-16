@@ -1,2 +1,2 @@
 # pagina-cv
-Repositório do projeto da disciplina de LIMA
+https://rafael-alves-nascimento.github.io/pagina-cv/
